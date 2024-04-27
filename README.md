@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @TheFodfather
-- 👀 I’m interested in c# full stack applications.
-- 🌱 I’m currently a junior software developer at TIMco
+- 🌱 I’m currently a software developer @ bet365
 - 📫 How to reach me https://www.linkedin.com/in/spencerst98
