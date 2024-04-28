@@ -1,3 +1,1 @@
 - 👋 Hi, I’m @TheFodfather
-- 🌱 I’m currently a software developer @ bet365
-- 📫 How to reach me https://www.linkedin.com/in/spencerst98
